@@ -17,45 +17,47 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Microsoft
+  title-url: https://microsoft.com/
+  date: 2019 - Present
+  subtitle: Senior software engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Azure
+    - tag: Cloud Security
+    - tag: Azure Disk Encryption
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Microsoft
+  title-url: https://microsoft.com/
+  date: 2016 - 2019
+  subtitle: Software engineer II
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Windows
+    - tag: Operating System Security
+    - tag: Web Account Manager
+    - tag: Windows Hello
+    - tag: Schannel SSL/TLS
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+
+- title: NXP Semiconductors
+  title-url: https://NXP.com/
+  date: 2014 - 2016
+  subtitle: Software engineer II
+  tags:
+    - tag: Multimedia processor security
+    - tag: Linux
+    - tag: U-boot
+  timeline-side: left
+
+- title: University of Texas at Austin
+  title-url: https://utexas.edu/
+  date: 2012 - 2014
+  subtitle: M.Sc. Computer Science
+  timeline-side: right
+
+- title: University of Texas at Austin
+  title-url: https://utexas.edu/
+  date: 2010 - 2014
+  subtitle: B.Sc. Computer Science
   timeline-side: left
